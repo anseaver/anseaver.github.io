@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anseaver.github.io/sitemap.html.gz
+Sitemap: https://anseaver.github.io/app/sitemap.html.gz
+Sitemap: https://anseaver.github.io/assets/sitemap.html.gz
+Sitemap: https://anseaver.github.io/css/sitemap.html.gz
+Sitemap: https://anseaver.github.io/data/sitemap.html.gz
+Sitemap: https://anseaver.github.io/includes/sitemap.html.gz
+Sitemap: https://anseaver.github.io/item/sitemap.html.gz
+Sitemap: https://anseaver.github.io/src/sitemap.html.gz
